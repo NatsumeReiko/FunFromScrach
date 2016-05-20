@@ -87,6 +87,9 @@ final class Segment {
     next = null;
     prev = null;
     return result;
+
+
+
   }
 
   /**
